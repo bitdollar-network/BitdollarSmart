@@ -1,1 +1,1 @@
-# BitdollarSmart
+# Go-bitdollar
